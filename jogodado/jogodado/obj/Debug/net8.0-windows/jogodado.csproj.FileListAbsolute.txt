@@ -1,0 +1,16 @@
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.Form1.resources
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.csproj.GenerateResource.cache
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.AssemblyInfoInputs.cache
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.AssemblyInfo.cs
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.csproj.CoreCompileInputs.cache
+C:\Users\Lipe\source\repos\jogodado\jogodado\bin\Debug\net8.0-windows\jogodado.exe
+C:\Users\Lipe\source\repos\jogodado\jogodado\bin\Debug\net8.0-windows\jogodado.deps.json
+C:\Users\Lipe\source\repos\jogodado\jogodado\bin\Debug\net8.0-windows\jogodado.runtimeconfig.json
+C:\Users\Lipe\source\repos\jogodado\jogodado\bin\Debug\net8.0-windows\jogodado.dll
+C:\Users\Lipe\source\repos\jogodado\jogodado\bin\Debug\net8.0-windows\jogodado.pdb
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.dll
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\refint\jogodado.dll
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.pdb
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\jogodado.genruntimeconfig.cache
+C:\Users\Lipe\source\repos\jogodado\jogodado\obj\Debug\net8.0-windows\ref\jogodado.dll
