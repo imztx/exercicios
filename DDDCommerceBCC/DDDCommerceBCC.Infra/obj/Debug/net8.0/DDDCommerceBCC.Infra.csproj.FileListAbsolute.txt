@@ -1,0 +1,17 @@
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.deps.json
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.runtimeconfig.json
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.dll
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.pdb
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Domain.dll
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Domain.pdb
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.csproj.AssemblyReference.cache
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.AssemblyInfoInputs.cache
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.AssemblyInfo.cs
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.csproj.CoreCompileInputs.cache
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDComme.3CDF511B.Up2Date
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.dll
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\refint\DDDCommerceBCC.Infra.dll
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.pdb
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.genruntimeconfig.cache
+D:\facu\navarro\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\ref\DDDCommerceBCC.Infra.dll
